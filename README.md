@@ -4,7 +4,7 @@ The Entity Synthetic Dataset is a multi-speaker multi-locale (en-*) TTS syntheti
 Please use the dataset for research or non-commercial purpose.
 
 ## Get the data
-The dataset is available both on [OneDrive](https://60wlz0-my.sharepoint.com/:f:/g/personal/shawn_60wlz0_onmicrosoft_com/EsV_zPmoilRNmT4_ZuJubPoBze48kzf01a7mDC2fSYZT0A?e=65lYv9) and [BaiduCloud](https://pan.baidu.com/s/1UajBs6zlzE2P9k0cqJQxSg?pwd=9d7m#list/path=%2F) with scripts in txt files and synthetic audio in zip files. Please select either the resource to your convenience.
+The dataset is available both on [OneDrive](https://60wlz0-my.sharepoint.com/:f:/g/personal/shawn_60wlz0_onmicrosoft_com/EsV_zPmoilRNmT4_ZuJubPoBze48kzf01a7mDC2fSYZT0A?e=65lYv9) and [BaiduCloud](https://pan.baidu.com/s/1UajBs6zlzE2P9k0cqJQxSg?pwd=9d7m#list/path=%2F) with scripts in txt files and synthetic audio in zip files. Please select either the resource according to your convenience.
 
 ## Changes
 August 2022: update entity synthetic dataset and examples.
