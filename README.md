@@ -13,4 +13,5 @@ August 2022: update entity synthetic dataset and examples.
 [1] T. Mitchell, W. Cohen, E. Hruschka, P. Talukdar, J. Betteridge, A. Carlson, B. Dalvi, M. Gardner, B. Kisiel, J. Krishnamurthy, N. Lao, K. Mazaitis, T. Mohamed,
 N. Nakashole, E. Platanios, A. Ritter, M. Samadi, B. Settles, R. Wang, D. Wijaya, A. Gupta, X. Chen, A. Saparov, M. Greaves, and J. Welling, “Neverending learning,” in
 Proc. AAAI, 2015.
+
 [2] T. P. Tanon, G. Weikum, and F. Suchanek, “Yago 4: A reasonable knowledge base,” in Extended Semantic Web Conference, 2020.
